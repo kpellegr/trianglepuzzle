@@ -7,13 +7,13 @@ The goal is as follows:
  - construct a triangle whose sides consist of 4 numbers and each side adds up to 1020
  
  
-              360
-             /   \
-          120    540
-         /          \
-      420            180
-      /                \
-   300 -- 240 -- 60 -- 480
+                360
+               /   \
+            120    540
+           /          \
+         420            180
+         /                \
+       300 -- 240 -- 60 -- 480
 
 Example of a valid triangle (each number is used exacly once), but not a solution to the problem (the sides add up to 1200, 1560 and 1080 respectively)
 
